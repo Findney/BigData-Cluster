@@ -1,18 +1,19 @@
-# Core Spark and Hadoop integration
-pyspark
-hdfs
+# # Core Spark and Hadoop integration
+# pyspark
+# hdfs
 
-# Data manipulation and feature extraction
-pandas
-numpy
-scikit-learn
+# # Data manipulation and feature extraction
+# pandas
+# numpy
+# scikit-learn
 
-# Natural Language Processing (for TF-IDF, Word2Vec)
-nltk
+# # Natural Language Processing (for TF-IDF, Word2Vec)
+# nltk
 
-# Data Visualization
-matplotlib
-seaborn
+# # Data Visualization
+# matplotlib
+# seaborn
 
 # For reading/writing data between Python and HDFS
 requests
+bs4
